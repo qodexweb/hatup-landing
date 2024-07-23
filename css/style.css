@@ -87,7 +87,7 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: #ff7be5;
+    color: #c7242e;
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
 }
@@ -189,16 +189,16 @@ button {
 }
 
 .btn-style2:hover {
-    background-color: #ff7be5;
-    border: 1px solid #ff7be5;
+    background-color: #c7242e;
+    border: 1px solid #c7242e;
     color: #fff;
 }
 
 .btn-style1 {
     padding: 15px 20px;
     color: #fff;
-    background-color: #ff7be5;
-    border: 1px solid #ff7be5;
+    background-color: #c7242e;
+    border: 1px solid #c7242e;
     font-size: 14px;
     letter-spacing: 1px;
     line-height: 1;
@@ -211,8 +211,8 @@ button {
 }
 
 .btn-style1:hover {
-    background-color: #c64191;
-    border: 1px solid #c64191;
+    background-color: #000;
+    border: 1px solid #000;
     color: #fff;
 }
 
@@ -235,8 +235,8 @@ button {
 
 .btn-style:hover {
     color: #fff;
-    background-color: #ff7be5;
-    border: 2px solid #ff7be5;
+    background-color: #c7242e;
+    border: 2px solid #c7242e;
     -webkit-transition: 0.3s ease-in-out;
     transition: 0.3s ease-in-out;
 }
@@ -372,7 +372,7 @@ button {
 }
 
 .landing-header .land-header nav ul.nav li:hover a {
-    color: #ff7be5;
+    color: #c7242e;
 }
 
 @media (max-width: 1199px) {
@@ -581,8 +581,8 @@ button {
 }
 
 .landing-text h2.land-main span {
-    color: #ff7be5;
-    border-bottom: 2px solid #ff7be5;
+    color: #c7242e;
+    border-bottom: 2px solid #c7242e;
 }
 
 .landing-text h2 span.replace {
@@ -865,11 +865,11 @@ button {
 }
 
 .flag.box {
-    background-color: #ff7be5;
+    background-color: #c7242e;
 }
 
 .flag.rtl {
-    background-color: #ff7be5;
+    background-color: #c7242e;
 }
 
 .flag.coming {
@@ -1344,7 +1344,7 @@ button {
 }
 
 .landing-header .land-header nav ul.nav li button:hover {
-    color: #ff7be5;
+    color: #c7242e;
 }
 
 .section-title h2 span:last-child {
@@ -1362,5 +1362,5 @@ button {
 }
 
 .landing-header .land-header .mainlogo a img {
-    max-width: 70%;
+    max-width: 85%;
 }
